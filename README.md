@@ -35,7 +35,7 @@ A customizable finance dashboard where users can add API widgets, track crypto/s
 ##  Installation
 
 ```sh
-git clone https://github.com/<your-username>/GROWW_ASSIGNMENT.git
+git clone https://github.com/hritvik715/GROWW_ASSIGNMENT.git
 cd GROWW_ASSIGNMENT
 npm install
 ```
