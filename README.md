@@ -1,7 +1,7 @@
 # **Finance Dashboard – Groww Assignment**
 
 ## Live Demo  
-https://groww-assignment.vercel.app
+https://groww-assignment-three.vercel.app/
 
 
 A customizable finance dashboard where users can add API widgets, track crypto/stock prices, and configure auto-refresh settings. Built using **Next.js, TypeScript, Tailwind, Zustand** and public finance APIs.
