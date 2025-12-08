@@ -97,7 +97,7 @@ public/
 ---
 
 
-## 🤝 Author
+## Author
 **Hritvik Mohan**
 
 ---
